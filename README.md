@@ -1,6 +1,6 @@
 # AI-Against-I
 A Reggae Polemic
-- Created By: Adrian Mandeville
+- Created By: Adrian Mandeville & John Henry Thompson
 - Hosted 2026-06-17 3-4:30pm at ITP Camp 
 - [🦁 AI Against I: A Reggae Polemic 🗣️](https://itp.nyu.edu/camp/2026/session/188)
 
