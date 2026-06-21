@@ -1,9 +1,10 @@
 # AI-Against-I
 A Reggae Polemic
-
 - Created By: Adrian Mandeville
 - Hosted 2026-06-17 3-4:30pm at ITP Camp 
 - [🦁 AI Against I: A Reggae Polemic 🗣️](https://itp.nyu.edu/camp/2026/session/188)
+
+![session_188.png](session_188.png)
 
 Beginning with a brief presentation on the roots of Rastafari, Reggae, and Dub, this workshop will challenge participants to think of the problems of AI in dialogue with ideas of self, consciousness, collectivity, and oneness embodied in the concept of "I and I".
 
